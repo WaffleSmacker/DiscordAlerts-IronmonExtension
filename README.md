@@ -17,8 +17,11 @@ U0JBRR+LCAAAAAAABADtWFtv2zYYfR+w/8AG6Ftp86ZbX4as6dJd2mBL26AdioA32WolUZUoO1mR/75P
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/98f44034-d9b3-4f68-9836-13ba72b8636c)<br>
 
 2. Click import and the new actions will be added to your streamerbot instance.<br>
+
 3. We need the global variables for E4 and Safari to exist in order for the extension to work correctly.<br>
+
 Click "Alert Setup - ONLY DO THIS ONCE" & then right click "Test" and then "Test Trigger" <br>
+
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/8ba4aed6-99de-4aa9-9b02-5a7c882bf765) <br>
 
 3a.If you want to verify that it worked correctly, click "Variables" then click "Last Write" 2 times to see the most recent variables:<br>
@@ -28,6 +31,7 @@ Click "Alert Setup - ONLY DO THIS ONCE" & then right click "Test" and then "Test
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/744eea32-1ccb-4ec7-b90d-58006abb0b40)<br>
 
 4. Disable "Alert Setup - ONLY DO THIS ONCE" then Enable "E4 Alert" & "Safari Zone Alert"  (should look like below)<br>
+
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/9d3b7fa8-8ea4-47e1-849e-a52aca713f5e) <br>
 
 5. You are done setting it up!  Now play the game and get a good run!
@@ -36,12 +40,16 @@ Click "Alert Setup - ONLY DO THIS ONCE" & then right click "Test" and then "Test
 ## How to Use
 
 Simply turn the extension on when you are playing IronMon. <br>
+
 Once you enter the Safari Zone OR When you successfully escape from Victory Road you will get a popup. <br>
+
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/8b995a3a-6040-4811-ad82-a6c9950ab917)<br>
+
 
 Click Yes to send an automated Discord message with a link to your stream and a notification!  Click No to do nothing! <br>
 
 Example of what it looks like on Discord:<br>
+
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/ec67dce1-9744-429d-97fb-928349dfc8ee)
 
 
