@@ -35,7 +35,15 @@ Click "Alert Setup - ONLY DO THIS ONCE" & then right click "Test" and then "Test
 
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/9d3b7fa8-8ea4-47e1-849e-a52aca713f5e) <br>
 
-5. You are done setting it up!  Now play the game and get a good run!
+5. Set up which discords you want to send notifications to: (IF YOU ARE IN EPILOGUE GAMING REACH OUT TO BEN OR WAFFLE FOR THE URL)<br>  
+By default you will probably want to add your own discord.<br>
+Access your discord channel where you want the notifications to go and get a websocket url. (edit channel -> Integrations -> Webhooks -> New Webhook -> Copy Webhook URL) <br>
+Using that url paste it into both the E4 and Safari Alert sub-actions in streamerbot.<br>
+![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/b3e07a0b-c5be-4744-bd50-1c8b19d1eaad)
+
+5a. You can set up notifications to multiple discords IF you have permissions!
+
+6. You are done setting it up!  Now play the game and get a good run!
 
 
 ## How to Use
