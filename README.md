@@ -1,5 +1,6 @@
 # DiscordAlerts-IronmonExtension
 DiscordAlerts - IronMon Extension for sending notifications to discord when you get to E4 or Safari Zone!
+Created by [WaffleSmacker](https://www.twitch.tv/wafflesmacker)
 
 ![image](https://github.com/WaffleSmacker/DiscordAlerts-IronmonExtension/assets/131427794/520444bf-02b4-4ba5-9fe9-c8e107ea0350)
 
